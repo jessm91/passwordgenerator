@@ -8,7 +8,7 @@ This password generator was created using Python. The computer generates a passw
 
 1. Clone this github repository to your computer
 2. Open your terminal and locate the directory that this repository is in
-3. Enter `python3 guessnumber.py` in your terminal to run the program
+3. Enter `python3 passwordgen.py` in your terminal to run the program
 
 ## Credits
 
